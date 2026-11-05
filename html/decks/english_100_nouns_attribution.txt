@@ -1,0 +1,3 @@
+English 100 Nouns deck data
+
+The English words, Russian translations, and General American IPA transcriptions in this file were prepared for this app.

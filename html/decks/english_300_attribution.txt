@@ -1,0 +1,6 @@
+English 300 deck data
+
+Frequency order: first 300 ranked entries from NGSL 1.2, the New General Service List for learners of general English.
+English list: Browne, C., Culligan, B., and Phillips, J., New General Service List, CC BY-SA 4.0.
+Source: https://www.newgeneralservicelist.com/new-general-service-list
+Russian translations in this file were prepared for this app.
